@@ -12,3 +12,11 @@
     font-size: 38px;
     font-family: serif;
 }
+
+.footer {
+    padding: 30px 100px;
+    text-align: center;
+    background-color: #ae42b1;
+    font-size: 32px;
+    font-family: serif;
+}
